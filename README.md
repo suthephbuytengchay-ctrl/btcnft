@@ -1,4 +1,4 @@
-# BTC NFT
+# ST/BTC NFT
 
 BTC NFT is a bitcoin-native protocol for minting and transferring NFTs.
 
